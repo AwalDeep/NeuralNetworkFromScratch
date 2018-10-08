@@ -1,5 +1,5 @@
 # NeuralNetworkFromScratch
-My own implementation for training my own neural network.
+My own implementation for training my own neural network(MNIST dataset).
 
 The goal is to label images of 10 handwritten digits of “zero”, “one”,..., 
 “nine”. The images are 28 by 28 in size (MNIST dataset), which we will be represented as a vector x of 
